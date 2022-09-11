@@ -1,7 +1,6 @@
-class Itinerary {
-    constructor (ports) {
+function Itinerary(ports) {
     this.ports = ports;
-    };
-};
-
-module.exports = Itinerary;
+  }
+  
+  module.exports = Itinerary;
+  
